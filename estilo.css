@@ -1,0 +1,52 @@
+body {
+    margin: 0;
+}
+
+h1 {
+    margin: 0;
+}
+
+.principal{
+    background-color: #21022d;
+    color: white;
+    text-align: center;
+    padding: 8px;
+}
+
+.cardapio{
+    background-color: #e2d8e7;
+    margin: 24px;
+    padding: 16px;
+    color: #21022d;
+}
+
+.cardapio h2{
+    margin-top: 0;
+    margin-bottom: 0;
+}
+
+#vitaminas{
+    margin-left: 64px;
+}
+
+#vitaminas h3{
+    padding-top: 32px;
+}
+
+#vitaminas img{
+    width: 150px;
+}
+
+#outros{
+    text-align: center;
+}
+
+#outros h2{
+    margin-top: 64px;
+    margin-bottom: 32px;
+}
+
+#outros img{
+    width: 600px;
+    height: 300px;
+}
